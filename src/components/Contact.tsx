@@ -9,14 +9,13 @@ const Contact = () => {
         message: ''
     });
 
-    const handleInputChange = (e) => {
+    const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
         const { name, value } = e.target;
         setFormData({ ...formData, [name]: value });
     };
 
-    const handleSubmit = (e) => {
+    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
-
         console.log('Form Submitted:', formData);
     };
 
@@ -96,7 +95,7 @@ const Contact = () => {
                             onChange={handleInputChange}
                             aria-label="Your message"
                             className="w-full p-4 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-opacity-50 transition"
-                            rows="6"
+                            rows={6}  // Fix: Set rows as a number
                         ></textarea>
                     </div>
                 </div>
