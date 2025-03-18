@@ -103,7 +103,7 @@ const Portfolio = () => {
                             <p className="text-gray-400 mt-2">
                                 here's the fitness tracking app develop by using react native,typeScript,tailwind and backend develop by using node,express and mySql.this system access security develop by using jWT token.
                             </p>
-                            <a href="#" className="text-teal-500 mt-4 inline-block">
+                            <a href="https://github.com/chulakasam/Fit-track-mobile-frontend.git" className="text-teal-500 mt-4 inline-block">
                                 <i className='bx bx-link-external'></i>
                             </a>
                         </div>
