@@ -96,12 +96,12 @@ const Portfolio = () => {
                     {/* 06 */}
                     <div className="port-box mix webapp bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300">
                         <div className="port-image mb-4">
-                            <img src="img/6.jpg" alt="Web App" className="w-full h-48 object-cover rounded-md" />
+                            <img src="mobileapp.png" alt="Web App" className="w-full h-48 object-cover rounded-md" />
                         </div>
                         <div className="port-content">
-                            <h3 className="text-2xl font-semibold text-white">Web App</h3>
+                            <h3 className="text-2xl font-semibold text-white">Fit Track Mobile App</h3>
                             <p className="text-gray-400 mt-2">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae consequatur, cupiditate deserunt dolores molestiae nisi quod repellendus reprehenderit voluptate?
+                                here's the fitness tracking app develop by using react native,typeScript,tailwind and backend develop by using node,express and mySql.this system access security develop by using jWT token.
                             </p>
                             <a href="#" className="text-teal-500 mt-4 inline-block">
                                 <i className='bx bx-link-external'></i>
