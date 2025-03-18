@@ -57,7 +57,7 @@ const Home = () => {
 
                 {/* Profile Image */}
                 <div className="profile-image flex justify-center items-center mt-8">
-                    <img src="../../public/IMG_6224new.png" alt="Chulaka Sampath" className="rounded-lg shadow-lg max-w-full h-auto transition-transform duration-300 hover:scale-105"/>
+                    <img src="IMG_6224new.png" alt="Chulaka Sampath" className="rounded-lg shadow-lg max-w-full h-auto transition-transform duration-300 hover:scale-105"/>
                 </div>
             </div>
         </section>

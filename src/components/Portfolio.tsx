@@ -16,7 +16,7 @@ const Portfolio = () => {
                     {/* 01 */}
                     <div className="port-box mix product bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300">
                         <div className="port-image mb-4">
-                            <img src="/public/1st%20sem%20final.png" alt="first img" className="w-full h-48 object-cover rounded-md" />
+                            <img src="../assets/img/1.jpg" alt="first img" className="w-full h-48 object-cover rounded-md" />
                         </div>
                         <div className="port-content">
                             <h3 className="text-2xl font-semibold text-white">LA Fit Track</h3>
