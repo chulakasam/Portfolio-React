@@ -11,7 +11,7 @@ const Skills = () => {
         { name: 'MongoDB', icon: 'icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png' },
         { name: 'MySQL', icon: 'icons8-mysql-48.png' },
         { name: 'Python', icon: 'icons8-python-48.png' },
-        { name: 'React Native', icon: 'icons8-python-48.png' },
+        { name: 'React Native', icon: 'icons8-react-native-64.png' },
     ];
 
     return (
