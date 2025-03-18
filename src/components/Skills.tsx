@@ -1,17 +1,17 @@
 const Skills = () => {
     const skills = [
-        { name: 'HTML5', icon: '../../public/icons8-html-64.png' },
-        { name: 'CSS3', icon: '../../public/icons8-css-48.png' },
-        { name: 'JavaScript (ES6+)', icon: '../../public/icons8-java-48.png' },
-        { name: 'React', icon: '../../public/icons8-react-80.png' },
-        { name: 'Node.js', icon: '../../public/icons8-nodejs-48.png' },
-        { name: 'Git', icon: '../../public/icons8-git-64.png' },
-        { name: 'Spring Boot', icon: '../../public/icons8-spring-boot-48.png' },
-        { name: 'TypeScript', icon: '../../public/icons8-typescript-48.png' },
-        { name: 'MongoDB', icon: '../../public/icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png' },
-        { name: 'MySQL', icon: '../../public/icons8-mysql-48.png' },
-        { name: 'Python', icon: '../../public/icons8-python-48.png' },
-        { name: 'React Native', icon: '../../public/icons8-python-48.png' },
+        { name: 'HTML5', icon: 'icons8-html-64.png' },
+        { name: 'CSS3', icon: 'icons8-css-48.png' },
+        { name: 'JavaScript (ES6+)', icon: 'icons8-java-48.png' },
+        { name: 'React', icon: 'icons8-react-80.png' },
+        { name: 'Node.js', icon: 'icons8-nodejs-48.png' },
+        { name: 'Git', icon: 'icons8-git-64.png' },
+        { name: 'Spring Boot', icon: 'icons8-spring-boot-48.png' },
+        { name: 'TypeScript', icon: 'icons8-typescript-48.png' },
+        { name: 'MongoDB', icon: 'icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png' },
+        { name: 'MySQL', icon: 'icons8-mysql-48.png' },
+        { name: 'Python', icon: 'icons8-python-48.png' },
+        { name: 'React Native', icon: 'icons8-python-48.png' },
     ];
 
     return (

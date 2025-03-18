@@ -5,7 +5,7 @@ const About = () => {
             <div className="container mx-auto px-6 lg:px-12 flex flex-col lg:flex-row items-center">
                 <div className="img-about mb-6 lg:mb-0 lg:w-1/3">
                     <img
-                        src="../../public/IMG_6224new.png"
+                        src="IMG_6224new.png"
                         alt="About Image"
                         className=" transform transition duration-500 hover:scale-105"
                     />
