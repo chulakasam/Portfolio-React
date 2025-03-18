@@ -64,7 +64,7 @@ const Portfolio = () => {
                     {/* 04 */}
                     <div className="port-box mix interacting bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300">
                         <div className="port-image mb-4">
-                            <img src="public/LMS.jpg" alt="Library Management System" className="w-full h-48 object-cover rounded-md" />
+                            <img src="LMS.jpg" alt="Library Management System" className="w-full h-48 object-cover rounded-md" />
                         </div>
                         <div className="port-content">
                             <h3 className="text-2xl font-semibold text-white">Library Management System</h3>
@@ -80,14 +80,14 @@ const Portfolio = () => {
                     {/* 05 */}
                     <div className="port-box mix interacting bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300">
                         <div className="port-image mb-4">
-                            <img src="img/5.jpg" alt="Graphic Design" className="w-full h-48 object-cover rounded-md" />
+                            <img src="green shadow.png" alt="Graphic Design" className="w-full h-48 object-cover rounded-md" />
                         </div>
                         <div className="port-content">
-                            <h3 className="text-2xl font-semibold text-white">Graphic Designer</h3>
+                            <h3 className="text-2xl font-semibold text-white">Crop Management System</h3>
                             <p className="text-gray-400 mt-2">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae consequatur, cupiditate deserunt dolores molestiae nisi quod repellendus reprehenderit voluptate?
+                                Green shadow management system was develop by using React,tailwind.css,node.js,express with typeScript .CMS use to manage their crop,vehicle,equipment,field and their staff.specially JWT authentication use for the system security
                             </p>
-                            <a href="#" className="text-teal-500 mt-4 inline-block">
+                            <a href="https://github.com/chulakasam/crop-management-frontEnd-React.git" className="text-teal-500 mt-4 inline-block">
                                 <i className='bx bx-link-external'></i>
                             </a>
                         </div>
