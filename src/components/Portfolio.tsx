@@ -108,6 +108,25 @@ const Portfolio = () => {
                             </a>
                         </div>
                     </div>
+
+                    {/* 07 */}
+                    <div className="port-box mix webapp bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300">
+                        <div className="port-image mb-4">
+                            <img src="educationCenter.png" alt="Web App" className="w-full h-48 object-cover rounded-md" />
+                        </div>
+                        <div className="port-content">
+                            <h3 className="text-2xl font-semibold text-white">Akura Education Center</h3>
+                            <p className="text-gray-400 mt-2">
+                                here's the Akura edu portal web application develop by using Mern Stack (React with typeScript and MongoDB) and using JWT tokens for authentication.
+                            </p>
+                            <a href="https://github.com/chulakasam/Akura-Education-center.git" className="text-teal-500 mt-4 inline-block">
+                                <i className='bx bx-link-external'></i>
+                            </a>
+                            <a href="https://github.com/chulakasam/Akura-Edu-portal-BackEnd.git" className="text-teal-500 mt-4 inline-block">
+                                <i className='bx bx-link-external'></i>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
