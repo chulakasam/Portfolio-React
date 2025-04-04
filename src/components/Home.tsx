@@ -43,7 +43,7 @@ const Home = () => {
 
                 {/* Buttons */}
                 <div className="btn-box space-x-4">
-                    <a href="./assets/CV_Resume.pdf" className="bg-teal-500 text-white py-2 px-6 rounded hover:bg-teal-600 transition">Download CV</a>
+                    <a href="chulaka sampath resume.pdf" className="bg-teal-500 text-white py-2 px-6 rounded hover:bg-teal-600 transition">Download CV</a>
                     <a href="#" className="bg-teal-500 text-white py-2 px-6 rounded hover:bg-teal-600 transition">Hire Me!</a>
                 </div>
 
